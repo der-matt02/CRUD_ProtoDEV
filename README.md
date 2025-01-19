@@ -32,6 +32,10 @@ Links para desarrollar estos pasos:
   https://www.youtube.com/watch?v=aE7qxfgubS8
   https://www.youtube.com/watch?v=roTSOa4s5gA
 
+# Hacer restauracion de ProtoDEVDB.zip en MongoDB
+Descargar el archivo comprmido ProtoDEVDB.zip para poder crear la base de datos e interactuar con ella.
+ProtoDEVDB.zip Es un backup de la base de datos ProtoDEBDB.
+
 NOTA!  
 Este programa puede usarse en cualquier ide que se pueda aplicar los interpretes de entornos virtuales conda o que acepte varios interpretes como:
   Pycharm
